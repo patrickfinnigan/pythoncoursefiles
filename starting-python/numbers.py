@@ -25,3 +25,6 @@ print("10 times 10 comes first in this example")
 
 print((2 + 10) * (10 + 3))
 print("the parentheses come first in this one")
+
+print(0.1 + 0.2 - 0.3)
+print("what happened here")
